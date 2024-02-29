@@ -12,7 +12,7 @@
   "dependencies": {
     "@chainlink/contracts": "^0.2.2",
     "@davatar/react": "^1.8.1",
-    "@ensdomains/ensjs": "^2.0.1",
+    "@ensdomains/ensjs": "^3.0.0",
     "@headlessui/react": "^1.4.1",
     "@heroicons/react": "^1.0.5",
     "@nomiclabs/hardhat-ethers": "^2.0.2",
